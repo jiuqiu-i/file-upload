@@ -1,0 +1,30 @@
+!.gitignore
+!.git/
+
+# Python
+__pycache__
+
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Output
+out
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# SonarQube
+.sonarqube/
+
+# Visual Studio Code
+.vscode/
+
+# Mac
+.DS_Store
